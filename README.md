@@ -1,2 +1,2 @@
-# Blackbird by sanic
-REST app bult with Sanic &amp; Amadeus flight ✈️ API
+# Blackbird by Sanic
+REST app built with Sanic &amp; Amadeus flight ✈️ API
